@@ -21,12 +21,7 @@ with open(r'C:\Users\Lsmfa\Desktop\fakepasswords.txt') as file:
                 print(f"Attention '{password}' is a not a strong enough password. Password length must be at least 8 upper and lower case characters, at least one number, with one of these special characters _@$")
             else:
                 print(f"Congratulations '{password}' is a strong password.")
-##|
-#
-#
-#
-#
-##################
+
 
 
 
