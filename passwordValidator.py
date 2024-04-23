@@ -22,34 +22,3 @@ with open(r'C:\Users\Lsmfa\Desktop\fakepasswords.txt') as file:
             else:
                 print(f"Congratulations '{password}' is a strong password.")
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
